@@ -15,8 +15,9 @@ public class AmazonStepDefinitions {
 
     @Given("kullanici amazon anasayfasinda")
     public void kullanici_amazon_anasayfasinda() {
-        Driver.getDriver().navigate().refresh();
         Driver.getDriver().get(ConfigReader.getProperty("amazonUrl"));
+        Driver.getDriver().navigate().refresh();
+        Driver.getDriver().navigate().refresh();
     }
 
 

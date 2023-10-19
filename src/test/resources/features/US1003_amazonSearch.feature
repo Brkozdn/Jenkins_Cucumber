@@ -6,13 +6,12 @@
   # Sayfayi kapatir
 
 
-
-
-Feature: US1001 Kullanici Amazon Sayfasinda Arama Yapar
-
-
-
   @iphone
+  Feature: US1001 Kullanici Amazon Sayfasinda Arama Yapar
+
+
+
+
 Scenario: TC03 kullanici iphone aratir
 
 Given kullanici amazon anasayfasinda

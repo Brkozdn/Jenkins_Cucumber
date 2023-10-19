@@ -9,14 +9,14 @@
 
 
 
-
-Feature: US1001 Kullanici Amazon Sayfasinda Arama Yapar
-
-
-
-
-
   @java
+  Feature: US1001 Kullanici Amazon Sayfasinda Arama Yapar
+
+
+
+
+
+
   Scenario: TC02 kullanici amazonda Java aratir
 
     Given kullanici amazon anasayfasinda

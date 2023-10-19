@@ -7,15 +7,16 @@
 
 
 
-
+  @nutella
   Feature: US1001 Kullanici Amazon Sayfasinda Arama Yapar
 
 
 
 
 
-    @nutella
+
     Scenario: TC01 kullanici amazonda Nutella aratir
+
 
       Given kullanici amazon anasayfasinda
       Then kullanici Nutella icin arama yapar
