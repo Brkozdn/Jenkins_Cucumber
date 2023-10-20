@@ -7,7 +7,7 @@
 
 
 
-  @nutella
+  @nutella @smoke
   Feature: US1001 Kullanici Amazon Sayfasinda Arama Yapar
 
 
