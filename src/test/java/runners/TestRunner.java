@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
                 "junit:target/xml-report/cucumber1.xml"},
         features = "src/test/resources/features", //FEATURE DOSYALARINI NEREDEN BULACAGINI TARİF EDER
         glue = "stepDefinitions", //STEP DEFİNİTİONS DOSYALARINI NEREDEN BULACAGINI TARİF EDER
-        tags = "@nutella", // HANGİ TAG'I CALISTIRMAK İSTİYORSAK O YAZILIR
+        tags = "@java", // HANGİ TAG'I CALISTIRMAK İSTİYORSAK O YAZILIR
         dryRun = false, // True SECİLİRSE TESTİ CALISTIRMADAN SADECE EKSİK ADIMLARI BİZE VERİR
         monochrome = false // True SECİLİRSE KONSOLDAKİ CIKTILARI SİYAH VERİR
 
